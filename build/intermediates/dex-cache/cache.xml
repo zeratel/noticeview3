@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_feb617a517563e72e79dd9fa2600bda2e99624c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_dd8d1da8d7f1e3db203a8e772e7b7ae17c5c85a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_c1586727ee5ae5e44f8f735d1529790b7572e85b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-24.2.1_c51f0a150a8fbf5d78e9b367f074064c38009895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_f38f2e84af8f00c35d36dbc5e642b9168c77e430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_aec5da1643cb2e49b628a556cf0905865cdb5a67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e7e8098cb966fdba3146f2e5789173e84d4a59fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_45260867e1b96d090d7a2b3af5701f8c54088510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_4b3961325a42870afc29ecc054c7148ffd26207e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_451412d9db6c738352407b38ee0b7762caedc505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_3b9b6a789cd7715e662ea2e7a7ebabaa6ac4c01c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_21ebf4e99fb9c721820b93841477eea0ec0bdb19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_dbd58162793defa97f56e95665d88027289dc20f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_c6b92afdf62285b17e916f9b632e179021ed567f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_99b8c22846c2e52b0b225b4504002b9767d1ea7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_97b28466a01c210d2785d9f912912a88c9a347f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_37f38724073811f928cfde96da8615f39b9b4d2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.github.czy1121/library/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="edfd6e6ecc704c270e9cd0b99cf11f90caeafd81">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/com.github.czy1121-library-1.0.0_3f1a6186987f12b77e6daa007e7d28b1ade3e3da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9689855be910aee3947250aff39b4629bc47d313.jar" />
+    </item>
+
+</items>

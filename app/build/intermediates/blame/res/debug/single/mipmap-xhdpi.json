@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/res/merged/debug/mipmap-xhdpi/notice.png",
+        "source": "/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/src/main/res/mipmap-xhdpi/notice.png"
+    },
+    {
+        "merged": "/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/zeratel3000/AndroidStudioProjects/noticeview3/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
